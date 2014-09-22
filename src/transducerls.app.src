@@ -1,0 +1,6 @@
+{application, transducerls, [
+    {description, "Transducerls"},
+        {vsn, "0.1.0"},
+        {registered, []},
+        {applications, [kernel, stdlib]}
+    ]}.
